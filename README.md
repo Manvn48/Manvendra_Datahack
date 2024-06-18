@@ -56,8 +56,3 @@ The best model, Logistic Regression, achieved a mean ROC AUC score of 0.8459, in
 
 ## Usage
 To reproduce the results, follow these steps:
-
-### Installation
-Install dependencies:
-```sh
-pip install pandas scikit-learn xgboost
